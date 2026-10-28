@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "SMM Panel Price Index"
+abstract: >-
+  Daily price index for SMM panels, the wholesale resellers behind social-media
+  engagement services. Per canonical service: min, quartiles, median, max and a
+  quotable range of prices per 1,000 units across 140+ panels, from 2026-09-07,
+  plus per-panel domain and activity facts.
+authors:
+  - name: "PanelCompare"
+    website: "https://panelcompare.com"
+    email: "hello@panelcompare.com"
+  - family-names: "Güven"
+    given-names: "Emirhan"
+license: CC-BY-4.0
+url: "https://panelcompare.com/price-index"
+repository-code: "https://github.com/azorkai/smm-panel-price-index"
+keywords:
+  - smm panel
+  - price index
+  - social media marketing
+  - inauthentic engagement
+  - market prices
+  - open data
+date-released: 2026-10-28
