@@ -53,6 +53,7 @@ them; the min and max are not.
 - A panel quoting in another currency is converted to USD at a dated, stored rate.
 - `history/` before 2026-10-26 has no quotable range; that column was introduced then.
 - 2026-10-27 is missing from `history/`: the site's rebuild job failed that day.
+- `snapshots/` has no files for 2026-10-29 through 2026-11-05, when the nightly update was not running. `history/` covers those days, rebuilt from the API.
 
 ## Citation
 
