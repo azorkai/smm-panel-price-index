@@ -7,9 +7,9 @@
     "attribution": "PanelCompare (https://panelcompare.com)",
     "docs": "https://panelcompare.com/api-docs",
     "methodology": "https://panelcompare.com/methodology",
-    "generatedAt": "2026-11-12T09:34:26.330Z",
+    "generatedAt": "2026-11-12T23:37:33.013Z",
     "day": "2026-11-12",
-    "computedAt": "2026-11-12T07:05:07.000Z",
+    "computedAt": "2026-11-12T22:05:05.000Z",
     "rowCount": 150
   },
   "data": [
@@ -22,16 +22,16 @@
       "day": "2026-11-12",
       "currency": "USD",
       "min_price_per_1000": 0.0001,
-      "p25_price_per_1000": 1.96,
-      "median_price_per_1000": 3.77,
+      "p25_price_per_1000": 1.995,
+      "median_price_per_1000": 3.84,
       "p75_price_per_1000": 10,
       "max_price_per_1000": 100000,
       "panels_sampled": 74,
       "url": "https://panelcompare.com/services/instagram/followers",
-      "quotable_min_price_per_1000": 0.38,
-      "quotable_max_price_per_1000": 37.6772,
+      "quotable_min_price_per_1000": 0.384444,
+      "quotable_max_price_per_1000": 38.4,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "instagram",
@@ -51,7 +51,7 @@
       "quotable_min_price_per_1000": 0.0543,
       "quotable_max_price_per_1000": 5.4,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "instagram",
@@ -62,16 +62,16 @@
       "day": "2026-11-12",
       "currency": "USD",
       "min_price_per_1000": 0.0001,
-      "p25_price_per_1000": 0.0033203349999999998,
+      "p25_price_per_1000": 0.00330179,
       "median_price_per_1000": 0.01472,
-      "p75_price_per_1000": 0.18,
+      "p75_price_per_1000": 0.1743,
       "max_price_per_1000": 5000,
       "panels_sampled": 74,
       "url": "https://panelcompare.com/services/instagram/views",
       "quotable_min_price_per_1000": 0.001495,
       "quotable_max_price_per_1000": 0.144,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "instagram",
@@ -82,7 +82,7 @@
       "day": "2026-11-12",
       "currency": "USD",
       "min_price_per_1000": 0.0021,
-      "p25_price_per_1000": 0.18092550000000002,
+      "p25_price_per_1000": 0.18,
       "median_price_per_1000": 1.2,
       "p75_price_per_1000": 9.01,
       "max_price_per_1000": 1136.01,
@@ -91,7 +91,7 @@
       "quotable_min_price_per_1000": 0.12,
       "quotable_max_price_per_1000": 12,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "instagram",
@@ -111,7 +111,7 @@
       "quotable_min_price_per_1000": 0.9216002,
       "quotable_max_price_per_1000": 72.12,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "instagram",
@@ -122,16 +122,16 @@
       "day": "2026-11-12",
       "currency": "USD",
       "min_price_per_1000": 0.0144,
-      "p25_price_per_1000": 3.803246,
-      "median_price_per_1000": 15.459150000000001,
+      "p25_price_per_1000": 3.8275,
+      "median_price_per_1000": 15.4024,
       "p75_price_per_1000": 65,
       "max_price_per_1000": 26299.5863,
       "panels_sampled": 70,
       "url": "https://panelcompare.com/services/instagram/comments",
-      "quotable_min_price_per_1000": 1.55,
-      "quotable_max_price_per_1000": 154.35,
+      "quotable_min_price_per_1000": 1.54055,
+      "quotable_max_price_per_1000": 154,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "instagram",
@@ -142,16 +142,16 @@
       "day": "2026-11-12",
       "currency": "USD",
       "min_price_per_1000": 0.0022,
-      "p25_price_per_1000": 0.056807,
-      "median_price_per_1000": 0.1262915,
+      "p25_price_per_1000": 0.057525,
+      "median_price_per_1000": 0.1265915,
       "p75_price_per_1000": 0.252,
       "max_price_per_1000": 10500,
       "panels_sampled": 60,
       "url": "https://panelcompare.com/services/instagram/saves",
-      "quotable_min_price_per_1000": 0.0130525,
+      "quotable_min_price_per_1000": 0.0129316,
       "quotable_max_price_per_1000": 1.08,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "instagram",
@@ -164,14 +164,14 @@
       "min_price_per_1000": 0.0005,
       "p25_price_per_1000": 0.02,
       "median_price_per_1000": 0.1,
-      "p75_price_per_1000": 0.45952800000000005,
-      "max_price_per_1000": 3688.10846325,
+      "p75_price_per_1000": 0.46,
+      "max_price_per_1000": 3685.98034146,
       "panels_sampled": 60,
       "url": "https://panelcompare.com/services/instagram/shares",
       "quotable_min_price_per_1000": 0.01,
       "quotable_max_price_per_1000": 1,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "instagram",
@@ -182,16 +182,16 @@
       "day": "2026-11-12",
       "currency": "USD",
       "min_price_per_1000": 0.052089,
-      "p25_price_per_1000": 4.004625,
-      "median_price_per_1000": 13.921944,
-      "p75_price_per_1000": 41.591975000000005,
+      "p25_price_per_1000": 4.00925,
+      "median_price_per_1000": 13.893888,
+      "p75_price_per_1000": 41.55335,
       "max_price_per_1000": 13628.16,
-      "panels_sampled": 34,
+      "panels_sampled": 35,
       "url": "https://panelcompare.com/services/instagram/live-views",
-      "quotable_min_price_per_1000": 1.4,
-      "quotable_max_price_per_1000": 138.5911,
+      "quotable_min_price_per_1000": 1.38944,
+      "quotable_max_price_per_1000": 138.6003,
       "comparable": false,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "instagram",
@@ -211,7 +211,7 @@
       "quotable_min_price_per_1000": 0.0184,
       "quotable_max_price_per_1000": 1.78,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "instagram",
@@ -231,7 +231,7 @@
       "quotable_min_price_per_1000": 0.08,
       "quotable_max_price_per_1000": 6,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "instagram",
@@ -243,7 +243,7 @@
       "currency": "USD",
       "min_price_per_1000": 0.007245,
       "p25_price_per_1000": 0.07,
-      "median_price_per_1000": 0.164244,
+      "median_price_per_1000": 0.1638,
       "p75_price_per_1000": 0.6,
       "max_price_per_1000": 1875,
       "panels_sampled": 44,
@@ -251,7 +251,7 @@
       "quotable_min_price_per_1000": 0.0171616,
       "quotable_max_price_per_1000": 1.6,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "instagram",
@@ -271,7 +271,7 @@
       "quotable_min_price_per_1000": 1.31,
       "quotable_max_price_per_1000": 61.5894,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "instagram",
@@ -291,7 +291,7 @@
       "quotable_min_price_per_1000": 0.1155,
       "quotable_max_price_per_1000": 8,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "tiktok",
@@ -303,15 +303,15 @@
       "currency": "USD",
       "min_price_per_1000": 0.01,
       "p25_price_per_1000": 1.705,
-      "median_price_per_1000": 2.6,
-      "p75_price_per_1000": 4.554,
+      "median_price_per_1000": 2.59,
+      "p75_price_per_1000": 4.5568,
       "max_price_per_1000": 5940,
       "panels_sampled": 73,
       "url": "https://panelcompare.com/services/tiktok/followers",
       "quotable_min_price_per_1000": 0.26,
-      "quotable_max_price_per_1000": 25.95,
+      "quotable_max_price_per_1000": 25.9,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "tiktok",
@@ -322,16 +322,16 @@
       "day": "2026-11-12",
       "currency": "USD",
       "min_price_per_1000": 0.01,
-      "p25_price_per_1000": 0.39,
-      "median_price_per_1000": 0.6588,
-      "p75_price_per_1000": 1.1,
+      "p25_price_per_1000": 0.4,
+      "median_price_per_1000": 0.6682,
+      "p75_price_per_1000": 1.1021,
       "max_price_per_1000": 9500,
       "panels_sampled": 72,
       "url": "https://panelcompare.com/services/tiktok/likes",
       "quotable_min_price_per_1000": 0.06912,
-      "quotable_max_price_per_1000": 6.555,
+      "quotable_max_price_per_1000": 6.66,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "tiktok",
@@ -342,7 +342,7 @@
       "day": "2026-11-12",
       "currency": "USD",
       "min_price_per_1000": 0.001,
-      "p25_price_per_1000": 0.041,
+      "p25_price_per_1000": 0.0411010737418235,
       "median_price_per_1000": 0.08,
       "p75_price_per_1000": 0.5,
       "max_price_per_1000": 4000,
@@ -351,7 +351,7 @@
       "quotable_min_price_per_1000": 0.008,
       "quotable_max_price_per_1000": 0.798,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "tiktok",
@@ -362,16 +362,16 @@
       "day": "2026-11-12",
       "currency": "USD",
       "min_price_per_1000": 0.0055,
-      "p25_price_per_1000": 0.0906,
+      "p25_price_per_1000": 0.09079999999999999,
       "median_price_per_1000": 0.17,
-      "p75_price_per_1000": 0.88835,
+      "p75_price_per_1000": 0.88895,
       "max_price_per_1000": 253.89,
-      "panels_sampled": 63,
+      "panels_sampled": 64,
       "url": "https://panelcompare.com/services/tiktok/shares",
       "quotable_min_price_per_1000": 0.017,
       "quotable_max_price_per_1000": 1.7,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "tiktok",
@@ -391,7 +391,7 @@
       "quotable_min_price_per_1000": 0.4283,
       "quotable_max_price_per_1000": 42,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "tiktok",
@@ -402,16 +402,16 @@
       "day": "2026-11-12",
       "currency": "USD",
       "min_price_per_1000": 0.0001,
-      "p25_price_per_1000": 3.520505,
-      "median_price_per_1000": 10.5807,
+      "p25_price_per_1000": 3.515,
+      "median_price_per_1000": 10.57695,
       "p75_price_per_1000": 32,
       "max_price_per_1000": 5625,
-      "panels_sampled": 59,
+      "panels_sampled": 60,
       "url": "https://panelcompare.com/services/tiktok/live-views",
       "quotable_min_price_per_1000": 1.06,
       "quotable_max_price_per_1000": 105.09,
       "comparable": false,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "tiktok",
@@ -431,7 +431,7 @@
       "quotable_min_price_per_1000": 0.0115,
       "quotable_max_price_per_1000": 0.99,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "tiktok",
@@ -451,7 +451,7 @@
       "quotable_min_price_per_1000": 0.006,
       "quotable_max_price_per_1000": 0.56,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "tiktok",
@@ -465,13 +465,13 @@
       "p25_price_per_1000": 1.2736,
       "median_price_per_1000": 14.8834,
       "p75_price_per_1000": 63.3575,
-      "max_price_per_1000": 370.30400766,
+      "max_price_per_1000": 370.09033392,
       "panels_sampled": 16,
       "url": "https://panelcompare.com/services/tiktok/favorites",
       "quotable_min_price_per_1000": 1.59,
       "quotable_max_price_per_1000": 148.08,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "youtube",
@@ -482,7 +482,7 @@
       "day": "2026-11-12",
       "currency": "USD",
       "min_price_per_1000": 0.0001,
-      "p25_price_per_1000": 5.27,
+      "p25_price_per_1000": 5.2162500000000005,
       "median_price_per_1000": 22.5,
       "p75_price_per_1000": 39.102,
       "max_price_per_1000": 21646.1908,
@@ -491,7 +491,7 @@
       "quotable_min_price_per_1000": 2.27,
       "quotable_max_price_per_1000": 225,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "youtube",
@@ -502,16 +502,16 @@
       "day": "2026-11-12",
       "currency": "USD",
       "min_price_per_1000": 0.08,
-      "p25_price_per_1000": 1.0473999999999999,
+      "p25_price_per_1000": 1.046425,
       "median_price_per_1000": 2.6,
       "p75_price_per_1000": 4.4,
-      "max_price_per_1000": 240035.69,
+      "max_price_per_1000": 240164.61,
       "panels_sampled": 70,
       "url": "https://panelcompare.com/services/youtube/views",
       "quotable_min_price_per_1000": 0.26,
       "quotable_max_price_per_1000": 26,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "youtube",
@@ -522,16 +522,16 @@
       "day": "2026-11-12",
       "currency": "USD",
       "min_price_per_1000": 0.054,
-      "p25_price_per_1000": 0.969992,
-      "median_price_per_1000": 1.3782,
-      "p75_price_per_1000": 3.94225,
+      "p25_price_per_1000": 0.96875,
+      "median_price_per_1000": 1.376905,
+      "p75_price_per_1000": 3.9200999999999997,
       "max_price_per_1000": 14250,
       "panels_sampled": 70,
       "url": "https://panelcompare.com/services/youtube/likes",
       "quotable_min_price_per_1000": 0.1678,
       "quotable_max_price_per_1000": 13.65,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "youtube",
@@ -542,16 +542,16 @@
       "day": "2026-11-12",
       "currency": "USD",
       "min_price_per_1000": 0.35,
-      "p25_price_per_1000": 17.1,
-      "median_price_per_1000": 25.2,
+      "p25_price_per_1000": 17.108520000000002,
+      "median_price_per_1000": 25.35,
       "p75_price_per_1000": 40,
       "max_price_per_1000": 2340,
       "panels_sampled": 53,
       "url": "https://panelcompare.com/services/youtube/watch-hours",
-      "quotable_min_price_per_1000": 2.52,
+      "quotable_min_price_per_1000": 2.56,
       "quotable_max_price_per_1000": 241.52,
       "comparable": false,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "youtube",
@@ -571,7 +571,7 @@
       "quotable_min_price_per_1000": 0.165,
       "quotable_max_price_per_1000": 15,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "youtube",
@@ -582,16 +582,16 @@
       "day": "2026-11-12",
       "currency": "USD",
       "min_price_per_1000": 0.041,
-      "p25_price_per_1000": 1.8837,
+      "p25_price_per_1000": 1.9,
       "median_price_per_1000": 5,
-      "p75_price_per_1000": 33.705,
+      "p75_price_per_1000": 34.5,
       "max_price_per_1000": 4497,
       "panels_sampled": 71,
       "url": "https://panelcompare.com/services/youtube/comments",
       "quotable_min_price_per_1000": 0.5,
       "quotable_max_price_per_1000": 50,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "youtube",
@@ -611,7 +611,7 @@
       "quotable_min_price_per_1000": 0.26,
       "quotable_max_price_per_1000": 13.9104,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "youtube",
@@ -631,7 +631,7 @@
       "quotable_min_price_per_1000": 0.2496,
       "quotable_max_price_per_1000": 24.78,
       "comparable": false,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "youtube",
@@ -651,7 +651,7 @@
       "quotable_min_price_per_1000": 0.25,
       "quotable_max_price_per_1000": 23.75,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "youtube",
@@ -671,7 +671,7 @@
       "quotable_min_price_per_1000": 38.6,
       "quotable_max_price_per_1000": 153.6,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "youtube",
@@ -682,16 +682,16 @@
       "day": "2026-11-12",
       "currency": "USD",
       "min_price_per_1000": 0.1654,
-      "p25_price_per_1000": 1.23,
+      "p25_price_per_1000": 1.22625,
       "median_price_per_1000": 3.2076,
-      "p75_price_per_1000": 4.9752,
+      "p75_price_per_1000": 4.79475,
       "max_price_per_1000": 313.088,
       "panels_sampled": 51,
       "url": "https://panelcompare.com/services/youtube/shorts-views",
       "quotable_min_price_per_1000": 0.325,
       "quotable_max_price_per_1000": 31.86,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "youtube",
@@ -705,13 +705,13 @@
       "p25_price_per_1000": 1.211,
       "median_price_per_1000": 2.0736,
       "p75_price_per_1000": 4.68,
-      "max_price_per_1000": 34.9680058,
+      "max_price_per_1000": 35.0364518,
       "panels_sampled": 24,
       "url": "https://panelcompare.com/services/youtube/shorts-likes",
       "quotable_min_price_per_1000": 0.4,
       "quotable_max_price_per_1000": 17.808,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "facebook",
@@ -722,16 +722,16 @@
       "day": "2026-11-12",
       "currency": "USD",
       "min_price_per_1000": 0.1727,
-      "p25_price_per_1000": 1.1,
-      "median_price_per_1000": 3.9795,
+      "p25_price_per_1000": 1.08,
+      "median_price_per_1000": 3.96,
       "p75_price_per_1000": 14.56,
       "max_price_per_1000": 14250,
       "panels_sampled": 53,
       "url": "https://panelcompare.com/services/facebook/page-likes",
-      "quotable_min_price_per_1000": 0.399,
-      "quotable_max_price_per_1000": 39.21033668,
+      "quotable_min_price_per_1000": 0.3968,
+      "quotable_max_price_per_1000": 39.247483,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "facebook",
@@ -742,16 +742,16 @@
       "day": "2026-11-12",
       "currency": "USD",
       "min_price_per_1000": 0.0836,
-      "p25_price_per_1000": 0.26570000000000005,
+      "p25_price_per_1000": 0.26555,
       "median_price_per_1000": 0.48,
-      "p75_price_per_1000": 1.662,
+      "p75_price_per_1000": 1.658525,
       "max_price_per_1000": 14250,
       "panels_sampled": 70,
       "url": "https://panelcompare.com/services/facebook/page-followers",
       "quotable_min_price_per_1000": 0.0836,
       "quotable_max_price_per_1000": 4.8,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "facebook",
@@ -762,16 +762,16 @@
       "day": "2026-11-12",
       "currency": "USD",
       "min_price_per_1000": 0.04,
-      "p25_price_per_1000": 0.5149,
+      "p25_price_per_1000": 0.500252500002,
       "median_price_per_1000": 2.34,
-      "p75_price_per_1000": 9.91,
+      "p75_price_per_1000": 9.9,
       "max_price_per_1000": 9500,
       "panels_sampled": 68,
       "url": "https://panelcompare.com/services/facebook/post-likes",
       "quotable_min_price_per_1000": 0.234,
       "quotable_max_price_per_1000": 23.4,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "facebook",
@@ -782,16 +782,16 @@
       "day": "2026-11-12",
       "currency": "USD",
       "min_price_per_1000": 0.007,
-      "p25_price_per_1000": 0.248,
+      "p25_price_per_1000": 0.24755,
       "median_price_per_1000": 0.81,
       "p75_price_per_1000": 6.88,
       "max_price_per_1000": 1235,
-      "panels_sampled": 65,
+      "panels_sampled": 64,
       "url": "https://panelcompare.com/services/facebook/reactions",
       "quotable_min_price_per_1000": 0.0813,
       "quotable_max_price_per_1000": 8.1,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "facebook",
@@ -802,16 +802,16 @@
       "day": "2026-11-12",
       "currency": "USD",
       "min_price_per_1000": 0.005,
-      "p25_price_per_1000": 0.075923275,
+      "p25_price_per_1000": 0.075,
       "median_price_per_1000": 0.24,
-      "p75_price_per_1000": 0.7903,
+      "p75_price_per_1000": 0.7924,
       "max_price_per_1000": 5200,
-      "panels_sampled": 68,
+      "panels_sampled": 67,
       "url": "https://panelcompare.com/services/facebook/video-views",
       "quotable_min_price_per_1000": 0.024,
       "quotable_max_price_per_1000": 2.366,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "facebook",
@@ -823,7 +823,7 @@
       "currency": "USD",
       "min_price_per_1000": 0.1599,
       "p25_price_per_1000": 0.49,
-      "median_price_per_1000": 0.94653805,
+      "median_price_per_1000": 0.94502755,
       "p75_price_per_1000": 5.925,
       "max_price_per_1000": 292.5,
       "panels_sampled": 62,
@@ -831,7 +831,7 @@
       "quotable_min_price_per_1000": 0.1599,
       "quotable_max_price_per_1000": 9.45,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "facebook",
@@ -842,16 +842,16 @@
       "day": "2026-11-12",
       "currency": "USD",
       "min_price_per_1000": 0.035,
-      "p25_price_per_1000": 2.498,
-      "median_price_per_1000": 6.255,
-      "p75_price_per_1000": 12.553550000000001,
+      "p25_price_per_1000": 2.4957000000000003,
+      "median_price_per_1000": 6.2524999999999995,
+      "p75_price_per_1000": 12.535,
       "max_price_per_1000": 3810.24,
       "panels_sampled": 60,
       "url": "https://panelcompare.com/services/facebook/live-views",
       "quotable_min_price_per_1000": 0.6272,
       "quotable_max_price_per_1000": 61.75,
       "comparable": false,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "facebook",
@@ -871,7 +871,7 @@
       "quotable_min_price_per_1000": 1.0717,
       "quotable_max_price_per_1000": 69.12,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "facebook",
@@ -884,14 +884,14 @@
       "min_price_per_1000": 0.005,
       "p25_price_per_1000": 0.88,
       "median_price_per_1000": 2.0736,
-      "p75_price_per_1000": 13.491475,
+      "p75_price_per_1000": 13.5,
       "max_price_per_1000": 324,
       "panels_sampled": 59,
       "url": "https://panelcompare.com/services/facebook/shares",
       "quotable_min_price_per_1000": 0.2077,
       "quotable_max_price_per_1000": 20.52,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "facebook",
@@ -902,16 +902,16 @@
       "day": "2026-11-12",
       "currency": "USD",
       "min_price_per_1000": 0.088,
-      "p25_price_per_1000": 4.11875,
-      "median_price_per_1000": 20.7106,
-      "p75_price_per_1000": 54.381600000000006,
+      "p25_price_per_1000": 4.386,
+      "median_price_per_1000": 20.8407,
+      "p75_price_per_1000": 54.5064,
       "max_price_per_1000": 4290,
-      "panels_sampled": 65,
+      "panels_sampled": 64,
       "url": "https://panelcompare.com/services/facebook/comments",
-      "quotable_min_price_per_1000": 2.079,
+      "quotable_min_price_per_1000": 2.09,
       "quotable_max_price_per_1000": 203.931,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "twitter",
@@ -922,16 +922,16 @@
       "day": "2026-11-12",
       "currency": "USD",
       "min_price_per_1000": 0.0044,
-      "p25_price_per_1000": 3.35,
+      "p25_price_per_1000": 3.3125,
       "median_price_per_1000": 11.6415,
       "p75_price_per_1000": 30,
       "max_price_per_1000": 8400,
       "panels_sampled": 69,
       "url": "https://panelcompare.com/services/twitter/followers",
       "quotable_min_price_per_1000": 1.16736,
-      "quotable_max_price_per_1000": 115.99,
+      "quotable_max_price_per_1000": 116.05,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "twitter",
@@ -945,13 +945,13 @@
       "p25_price_per_1000": 2.1,
       "median_price_per_1000": 4.75,
       "p75_price_per_1000": 12.8,
-      "max_price_per_1000": 5064.1921,
+      "max_price_per_1000": 5064.5269,
       "panels_sampled": 68,
       "url": "https://panelcompare.com/services/twitter/likes",
       "quotable_min_price_per_1000": 0.48,
       "quotable_max_price_per_1000": 46.8001,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "twitter",
@@ -962,16 +962,16 @@
       "day": "2026-11-12",
       "currency": "USD",
       "min_price_per_1000": 0.0305,
-      "p25_price_per_1000": 2.2025,
-      "median_price_per_1000": 8.6649,
-      "p75_price_per_1000": 49.86,
-      "max_price_per_1000": 5064.1921,
-      "panels_sampled": 68,
+      "p25_price_per_1000": 2.2,
+      "median_price_per_1000": 8.745000000000001,
+      "p75_price_per_1000": 49.90625,
+      "max_price_per_1000": 5064.5269,
+      "panels_sampled": 69,
       "url": "https://panelcompare.com/services/twitter/retweets",
       "quotable_min_price_per_1000": 0.88,
       "quotable_max_price_per_1000": 85.98,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "twitter",
@@ -983,7 +983,7 @@
       "currency": "USD",
       "min_price_per_1000": 0.0005,
       "p25_price_per_1000": 0.01,
-      "median_price_per_1000": 0.0638,
+      "median_price_per_1000": 0.0635,
       "p75_price_per_1000": 1.6,
       "max_price_per_1000": 12579.84,
       "panels_sampled": 70,
@@ -991,7 +991,7 @@
       "quotable_min_price_per_1000": 0.0064,
       "quotable_max_price_per_1000": 0.63,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "twitter",
@@ -1002,7 +1002,7 @@
       "day": "2026-11-12",
       "currency": "USD",
       "min_price_per_1000": 0.0038,
-      "p25_price_per_1000": 18,
+      "p25_price_per_1000": 17.98935,
       "median_price_per_1000": 48.8,
       "p75_price_per_1000": 89.5872,
       "max_price_per_1000": 11235,
@@ -1011,7 +1011,7 @@
       "quotable_min_price_per_1000": 5,
       "quotable_max_price_per_1000": 480,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "twitter",
@@ -1021,7 +1021,7 @@
       "unit": "bookmarks",
       "day": "2026-11-12",
       "currency": "USD",
-      "min_price_per_1000": 0.0166782,
+      "min_price_per_1000": 0.0165573,
       "p25_price_per_1000": 34.4138,
       "median_price_per_1000": 49.1625,
       "p75_price_per_1000": 55.35,
@@ -1031,7 +1031,7 @@
       "quotable_min_price_per_1000": 5.922,
       "quotable_max_price_per_1000": 366.9,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "twitter",
@@ -1044,14 +1044,14 @@
       "min_price_per_1000": 0.095,
       "p25_price_per_1000": 2.55,
       "median_price_per_1000": 3,
-      "p75_price_per_1000": 7.68,
+      "p75_price_per_1000": 7.51,
       "max_price_per_1000": 1521,
       "panels_sampled": 37,
       "url": "https://panelcompare.com/services/twitter/poll-votes",
       "quotable_min_price_per_1000": 0.3,
       "quotable_max_price_per_1000": 30,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "twitter",
@@ -1071,7 +1071,7 @@
       "quotable_min_price_per_1000": 0.12,
       "quotable_max_price_per_1000": 11.52,
       "comparable": false,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "twitter",
@@ -1084,14 +1084,14 @@
       "min_price_per_1000": 0.001,
       "p25_price_per_1000": 0.009728,
       "median_price_per_1000": 0.08,
-      "p75_price_per_1000": 1.52,
+      "p75_price_per_1000": 1.5,
       "max_price_per_1000": 1485,
-      "panels_sampled": 39,
+      "panels_sampled": 40,
       "url": "https://panelcompare.com/services/twitter/profile-clicks",
       "quotable_min_price_per_1000": 0.008,
       "quotable_max_price_per_1000": 0.57,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "twitter",
@@ -1111,7 +1111,7 @@
       "quotable_min_price_per_1000": 1.41,
       "quotable_max_price_per_1000": 76.89,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "telegram",
@@ -1122,16 +1122,16 @@
       "day": "2026-11-12",
       "currency": "USD",
       "min_price_per_1000": 0.003,
-      "p25_price_per_1000": 0.5797565,
-      "median_price_per_1000": 1.35,
-      "p75_price_per_1000": 6.48,
+      "p25_price_per_1000": 0.585,
+      "median_price_per_1000": 1.3602,
+      "p75_price_per_1000": 6.5319,
       "max_price_per_1000": 9500,
       "panels_sampled": 71,
       "url": "https://panelcompare.com/services/telegram/channel-members",
-      "quotable_min_price_per_1000": 0.135,
-      "quotable_max_price_per_1000": 13.5,
+      "quotable_min_price_per_1000": 0.1368,
+      "quotable_max_price_per_1000": 13.545,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "telegram",
@@ -1144,14 +1144,14 @@
       "min_price_per_1000": 0.014,
       "p25_price_per_1000": 0.45,
       "median_price_per_1000": 0.91,
-      "p75_price_per_1000": 2.0352,
+      "p75_price_per_1000": 2.0364,
       "max_price_per_1000": 3500,
       "panels_sampled": 45,
       "url": "https://panelcompare.com/services/telegram/group-members",
       "quotable_min_price_per_1000": 0.0919,
       "quotable_max_price_per_1000": 8.2,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "telegram",
@@ -1162,16 +1162,16 @@
       "day": "2026-11-12",
       "currency": "USD",
       "min_price_per_1000": 0.01664,
-      "p25_price_per_1000": 4.41,
-      "median_price_per_1000": 8.449,
-      "p75_price_per_1000": 16.383,
+      "p25_price_per_1000": 4.395008,
+      "median_price_per_1000": 8.42,
+      "p75_price_per_1000": 16.38,
       "max_price_per_1000": 122200,
       "panels_sampled": 65,
       "url": "https://panelcompare.com/services/telegram/premium-members",
       "quotable_min_price_per_1000": 0.8453,
-      "quotable_max_price_per_1000": 84.4675,
+      "quotable_max_price_per_1000": 83.24,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "telegram",
@@ -1181,17 +1181,17 @@
       "unit": "views",
       "day": "2026-11-12",
       "currency": "USD",
-      "min_price_per_1000": 0.000829073,
-      "p25_price_per_1000": 0.063616,
+      "min_price_per_1000": 0.000825448,
+      "p25_price_per_1000": 0.065,
       "median_price_per_1000": 0.19,
-      "p75_price_per_1000": 0.8,
+      "p75_price_per_1000": 0.799,
       "max_price_per_1000": 4700,
       "panels_sampled": 65,
       "url": "https://panelcompare.com/services/telegram/post-views",
       "quotable_min_price_per_1000": 0.019,
       "quotable_max_price_per_1000": 1.8837,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "telegram",
@@ -1205,13 +1205,13 @@
       "p25_price_per_1000": 0.018,
       "median_price_per_1000": 0.0338,
       "p75_price_per_1000": 0.0994646,
-      "max_price_per_1000": 25862.82,
+      "max_price_per_1000": 25876.71,
       "panels_sampled": 62,
       "url": "https://panelcompare.com/services/telegram/reactions-positive",
       "quotable_min_price_per_1000": 0.0057,
       "quotable_max_price_per_1000": 0.331010000002,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "telegram",
@@ -1222,16 +1222,16 @@
       "day": "2026-11-12",
       "currency": "USD",
       "min_price_per_1000": 0.0063,
-      "p25_price_per_1000": 0.05285815,
-      "median_price_per_1000": 0.19,
-      "p75_price_per_1000": 1.2349999999999999,
+      "p25_price_per_1000": 0.045175,
+      "median_price_per_1000": 0.1851425,
+      "p75_price_per_1000": 1.1375,
       "max_price_per_1000": 331.2,
       "panels_sampled": 11,
       "url": "https://panelcompare.com/services/telegram/reactions-negative",
       "quotable_min_price_per_1000": 0.02,
       "quotable_max_price_per_1000": 1.83,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "telegram",
@@ -1246,12 +1246,12 @@
       "median_price_per_1000": 0.24,
       "p75_price_per_1000": 0.8,
       "max_price_per_1000": 450,
-      "panels_sampled": 51,
+      "panels_sampled": 50,
       "url": "https://panelcompare.com/services/telegram/story-views",
       "quotable_min_price_per_1000": 0.0256,
       "quotable_max_price_per_1000": 2.2101,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "telegram",
@@ -1264,14 +1264,14 @@
       "min_price_per_1000": 0.02,
       "p25_price_per_1000": 0.27,
       "median_price_per_1000": 0.41125,
-      "p75_price_per_1000": 0.66175194,
-      "max_price_per_1000": 174.49,
+      "p75_price_per_1000": 0.661621545,
+      "max_price_per_1000": 174.25,
       "panels_sampled": 32,
       "url": "https://panelcompare.com/services/telegram/votes",
       "quotable_min_price_per_1000": 0.0881,
-      "quotable_max_price_per_1000": 2.0275,
+      "quotable_max_price_per_1000": 2.0277,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "telegram",
@@ -1285,13 +1285,13 @@
       "p25_price_per_1000": 2.6,
       "median_price_per_1000": 3.9772,
       "p75_price_per_1000": 9.95,
-      "max_price_per_1000": 2362.3455,
+      "max_price_per_1000": 2362.5017,
       "panels_sampled": 37,
       "url": "https://panelcompare.com/services/telegram/comments",
       "quotable_min_price_per_1000": 0.45,
       "quotable_max_price_per_1000": 34.944,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "telegram",
@@ -1303,15 +1303,15 @@
       "currency": "USD",
       "min_price_per_1000": 0.0071,
       "p25_price_per_1000": 0.0791143,
-      "median_price_per_1000": 0.30293262,
+      "median_price_per_1000": 0.30263844,
       "p75_price_per_1000": 1,
       "max_price_per_1000": 33.6,
-      "panels_sampled": 40,
+      "panels_sampled": 39,
       "url": "https://panelcompare.com/services/telegram/shares-forwards",
       "quotable_min_price_per_1000": 0.0312,
       "quotable_max_price_per_1000": 3,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "telegram",
@@ -1323,15 +1323,15 @@
       "currency": "USD",
       "min_price_per_1000": 0.062,
       "p25_price_per_1000": 0.6,
-      "median_price_per_1000": 2.67925,
+      "median_price_per_1000": 2.7375,
       "p75_price_per_1000": 7,
-      "max_price_per_1000": 1000,
-      "panels_sampled": 60,
+      "max_price_per_1000": 520.03,
+      "panels_sampled": 59,
       "url": "https://panelcompare.com/services/telegram/bot-starts",
-      "quotable_min_price_per_1000": 0.2691,
-      "quotable_max_price_per_1000": 26.72,
+      "quotable_min_price_per_1000": 0.275,
+      "quotable_max_price_per_1000": 27.3013,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "telegram",
@@ -1342,16 +1342,16 @@
       "day": "2026-11-12",
       "currency": "USD",
       "min_price_per_1000": 0.06,
-      "p25_price_per_1000": 1.4703,
-      "median_price_per_1000": 20.8,
-      "p75_price_per_1000": 69.12,
+      "p25_price_per_1000": 2.3646,
+      "median_price_per_1000": 22.39,
+      "p75_price_per_1000": 94.3009,
       "max_price_per_1000": 6000,
       "panels_sampled": 24,
       "url": "https://panelcompare.com/services/telegram/premium-stars",
       "quotable_min_price_per_1000": 15,
       "quotable_max_price_per_1000": 126.97,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "spotify",
@@ -1371,7 +1371,7 @@
       "quotable_min_price_per_1000": 0.0863,
       "quotable_max_price_per_1000": 7.37,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "spotify",
@@ -1385,13 +1385,13 @@
       "p25_price_per_1000": 1.08,
       "median_price_per_1000": 1.7247,
       "p75_price_per_1000": 2.52,
-      "max_price_per_1000": 933.44681359,
+      "max_price_per_1000": 932.90819372,
       "panels_sampled": 48,
       "url": "https://panelcompare.com/services/spotify/monthly-listeners",
       "quotable_min_price_per_1000": 0.325,
       "quotable_max_price_per_1000": 16.25,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "spotify",
@@ -1411,7 +1411,7 @@
       "quotable_min_price_per_1000": 0.0984,
       "quotable_max_price_per_1000": 5.12,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "spotify",
@@ -1425,13 +1425,13 @@
       "p25_price_per_1000": 1.08,
       "median_price_per_1000": 1.08,
       "p75_price_per_1000": 1.08,
-      "max_price_per_1000": 94.4951,
+      "max_price_per_1000": 94.5013,
       "panels_sampled": 20,
       "url": "https://panelcompare.com/services/spotify/playlist-followers",
       "quotable_min_price_per_1000": 0.23,
-      "quotable_max_price_per_1000": 5.4624,
+      "quotable_max_price_per_1000": 5.4628,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "spotify",
@@ -1451,7 +1451,7 @@
       "quotable_min_price_per_1000": 0.0863,
       "quotable_max_price_per_1000": 7.46496,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "spotify",
@@ -1471,7 +1471,7 @@
       "quotable_min_price_per_1000": 0.095,
       "quotable_max_price_per_1000": 7.8176,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "spotify",
@@ -1483,7 +1483,7 @@
       "currency": "USD",
       "min_price_per_1000": 0.2917,
       "p25_price_per_1000": 0.38,
-      "median_price_per_1000": 0.4965775,
+      "median_price_per_1000": 0.4957315,
       "p75_price_per_1000": 0.743125,
       "max_price_per_1000": 8.4,
       "panels_sampled": 19,
@@ -1491,7 +1491,7 @@
       "quotable_min_price_per_1000": 0.2917,
       "quotable_max_price_per_1000": 4,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "spotify",
@@ -1502,7 +1502,7 @@
       "day": "2026-11-12",
       "currency": "USD",
       "min_price_per_1000": 0.19,
-      "p25_price_per_1000": 0.835116,
+      "p25_price_per_1000": 0.832457,
       "median_price_per_1000": 0.86,
       "p75_price_per_1000": 0.9996,
       "max_price_per_1000": 220.68,
@@ -1511,7 +1511,7 @@
       "quotable_min_price_per_1000": 0.19,
       "quotable_max_price_per_1000": 3.32,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "twitch",
@@ -1523,15 +1523,15 @@
       "currency": "USD",
       "min_price_per_1000": 0.01,
       "p25_price_per_1000": 0.15,
-      "median_price_per_1000": 0.3,
+      "median_price_per_1000": 0.30001194,
       "p75_price_per_1000": 1,
       "max_price_per_1000": 165,
       "panels_sampled": 57,
       "url": "https://panelcompare.com/services/twitch/followers",
-      "quotable_min_price_per_1000": 0.03,
+      "quotable_min_price_per_1000": 0.0312,
       "quotable_max_price_per_1000": 3,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "twitch",
@@ -1543,7 +1543,7 @@
       "currency": "USD",
       "min_price_per_1000": 0.15,
       "p25_price_per_1000": 3.71,
-      "median_price_per_1000": 12.55,
+      "median_price_per_1000": 12.5,
       "p75_price_per_1000": 49.28,
       "max_price_per_1000": 10033.32,
       "panels_sampled": 30,
@@ -1551,7 +1551,7 @@
       "quotable_min_price_per_1000": 1.26,
       "quotable_max_price_per_1000": 125,
       "comparable": false,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "twitch",
@@ -1562,16 +1562,16 @@
       "day": "2026-11-12",
       "currency": "USD",
       "min_price_per_1000": 1.5104,
-      "p25_price_per_1000": 3.44,
-      "median_price_per_1000": 1698.82,
-      "p75_price_per_1000": 3625.73,
-      "max_price_per_1000": 8100.16,
+      "p25_price_per_1000": 3.42,
+      "median_price_per_1000": 1698.6,
+      "p75_price_per_1000": 3611.81,
+      "max_price_per_1000": 8099.12,
       "panels_sampled": 4,
       "url": "https://panelcompare.com/services/twitch/live-viewers-multi-hour",
-      "quotable_min_price_per_1000": 960.201,
-      "quotable_max_price_per_1000": 8100.16,
+      "quotable_min_price_per_1000": 960.078,
+      "quotable_max_price_per_1000": 8099.12,
       "comparable": false,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "twitch",
@@ -1591,7 +1591,7 @@
       "quotable_min_price_per_1000": 0.8438,
       "quotable_max_price_per_1000": 84.3103,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "twitch",
@@ -1611,7 +1611,7 @@
       "quotable_min_price_per_1000": 0.05,
       "quotable_max_price_per_1000": 3.36,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "linkedin",
@@ -1622,16 +1622,16 @@
       "day": "2026-11-12",
       "currency": "USD",
       "min_price_per_1000": 3.8,
-      "p25_price_per_1000": 13.2045,
+      "p25_price_per_1000": 13.1833,
       "median_price_per_1000": 20.4,
-      "p75_price_per_1000": 35.245050000000006,
+      "p75_price_per_1000": 35.25505,
       "max_price_per_1000": 270,
-      "panels_sampled": 56,
+      "panels_sampled": 57,
       "url": "https://panelcompare.com/services/linkedin/company-followers",
       "quotable_min_price_per_1000": 3.8,
-      "quotable_max_price_per_1000": 156.23,
+      "quotable_max_price_per_1000": 156.32,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "linkedin",
@@ -1642,7 +1642,7 @@
       "day": "2026-11-12",
       "currency": "USD",
       "min_price_per_1000": 0.437,
-      "p25_price_per_1000": 13.02,
+      "p25_price_per_1000": 13.015,
       "median_price_per_1000": 18.96,
       "p75_price_per_1000": 30.45,
       "max_price_per_1000": 479.6043,
@@ -1651,7 +1651,7 @@
       "quotable_min_price_per_1000": 2.622,
       "quotable_max_price_per_1000": 186.66,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "linkedin",
@@ -1662,16 +1662,16 @@
       "day": "2026-11-12",
       "currency": "USD",
       "min_price_per_1000": 8.1,
-      "p25_price_per_1000": 36.447125,
-      "median_price_per_1000": 59.925,
-      "p75_price_per_1000": 88.573275,
+      "p25_price_per_1000": 36.214749999999995,
+      "median_price_per_1000": 59.85,
+      "p75_price_per_1000": 88.8014,
       "max_price_per_1000": 25000,
       "panels_sampled": 43,
       "url": "https://panelcompare.com/services/linkedin/connections",
       "quotable_min_price_per_1000": 8.1,
-      "quotable_max_price_per_1000": 273.34,
+      "quotable_max_price_per_1000": 273.49,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "linkedin",
@@ -1686,12 +1686,12 @@
       "median_price_per_1000": 20.9,
       "p75_price_per_1000": 31.5,
       "max_price_per_1000": 177.3525,
-      "panels_sampled": 54,
+      "panels_sampled": 55,
       "url": "https://panelcompare.com/services/linkedin/post-likes",
       "quotable_min_price_per_1000": 3.6,
       "quotable_max_price_per_1000": 177.3525,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "linkedin",
@@ -1702,16 +1702,16 @@
       "day": "2026-11-12",
       "currency": "USD",
       "min_price_per_1000": 0.3644,
-      "p25_price_per_1000": 21.7816,
-      "median_price_per_1000": 36,
-      "p75_price_per_1000": 96.843,
+      "p25_price_per_1000": 21.8364,
+      "median_price_per_1000": 36.2,
+      "p75_price_per_1000": 98.529,
       "max_price_per_1000": 6750,
       "panels_sampled": 49,
       "url": "https://panelcompare.com/services/linkedin/comments",
       "quotable_min_price_per_1000": 4.5,
       "quotable_max_price_per_1000": 345,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "linkedin",
@@ -1724,14 +1724,14 @@
       "min_price_per_1000": 0.145,
       "p25_price_per_1000": 1.2,
       "median_price_per_1000": 3.975,
-      "p75_price_per_1000": 47.56375,
+      "p75_price_per_1000": 47.795249999999996,
       "max_price_per_1000": 1408,
-      "panels_sampled": 45,
+      "panels_sampled": 46,
       "url": "https://panelcompare.com/services/linkedin/shares",
       "quotable_min_price_per_1000": 0.4,
       "quotable_max_price_per_1000": 39.1046,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "linkedin",
@@ -1743,7 +1743,7 @@
       "currency": "USD",
       "min_price_per_1000": 15.7383,
       "p25_price_per_1000": 114.85,
-      "median_price_per_1000": 177.44299999999998,
+      "median_price_per_1000": 177.15300000000002,
       "p75_price_per_1000": 352.5,
       "max_price_per_1000": 35100,
       "panels_sampled": 27,
@@ -1751,7 +1751,7 @@
       "quotable_min_price_per_1000": 25.1813,
       "quotable_max_price_per_1000": 450,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "linkedin",
@@ -1771,7 +1771,7 @@
       "quotable_min_price_per_1000": 11.319,
       "quotable_max_price_per_1000": 195,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "threads",
@@ -1782,16 +1782,16 @@
       "day": "2026-11-12",
       "currency": "USD",
       "min_price_per_1000": 0.475,
-      "p25_price_per_1000": 3.2355,
+      "p25_price_per_1000": 3.2464999999999997,
       "median_price_per_1000": 6.5775,
       "p75_price_per_1000": 14.4,
-      "max_price_per_1000": 6278.51,
-      "panels_sampled": 47,
+      "max_price_per_1000": 6258.19,
+      "panels_sampled": 48,
       "url": "https://panelcompare.com/services/threads/followers",
       "quotable_min_price_per_1000": 0.76,
       "quotable_max_price_per_1000": 63.84,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "threads",
@@ -1802,16 +1802,16 @@
       "day": "2026-11-12",
       "currency": "USD",
       "min_price_per_1000": 0.475,
-      "p25_price_per_1000": 3.1613,
-      "median_price_per_1000": 6.45055,
-      "p75_price_per_1000": 10.106024999999999,
+      "p25_price_per_1000": 3.1743,
+      "median_price_per_1000": 6.384,
+      "p75_price_per_1000": 10.097349999999999,
       "max_price_per_1000": 236.66,
-      "panels_sampled": 43,
+      "panels_sampled": 44,
       "url": "https://panelcompare.com/services/threads/likes",
-      "quotable_min_price_per_1000": 0.65,
+      "quotable_min_price_per_1000": 0.643,
       "quotable_max_price_per_1000": 49.38,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "threads",
@@ -1831,7 +1831,7 @@
       "quotable_min_price_per_1000": 3.08,
       "quotable_max_price_per_1000": 52.86,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "threads",
@@ -1845,13 +1845,13 @@
       "p25_price_per_1000": 2.42,
       "median_price_per_1000": 3.7800000000000002,
       "p75_price_per_1000": 6.8772,
-      "max_price_per_1000": 17.3255,
+      "max_price_per_1000": 17.3266,
       "panels_sampled": 14,
       "url": "https://panelcompare.com/services/threads/views",
       "quotable_min_price_per_1000": 0.5,
-      "quotable_max_price_per_1000": 17.3255,
+      "quotable_max_price_per_1000": 17.3266,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "threads",
@@ -1864,14 +1864,14 @@
       "min_price_per_1000": 0.266,
       "p25_price_per_1000": 8.25,
       "median_price_per_1000": 17.28,
-      "p75_price_per_1000": 83.32330407500001,
-      "max_price_per_1000": 2511.4,
+      "p75_price_per_1000": 83.299782725,
+      "max_price_per_1000": 2503.28,
       "panels_sampled": 36,
       "url": "https://panelcompare.com/services/threads/comments",
       "quotable_min_price_per_1000": 3.51,
       "quotable_max_price_per_1000": 165,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "snapchat",
@@ -1883,15 +1883,15 @@
       "currency": "USD",
       "min_price_per_1000": 4.5,
       "p25_price_per_1000": 27.271874999999998,
-      "median_price_per_1000": 43.917100000000005,
+      "median_price_per_1000": 43.8459,
       "p75_price_per_1000": 60.17375,
-      "max_price_per_1000": 758.87,
+      "max_price_per_1000": 759.28,
       "panels_sampled": 45,
       "url": "https://panelcompare.com/services/snapchat/followers",
       "quotable_min_price_per_1000": 4.5,
       "quotable_max_price_per_1000": 299.91,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "snapchat",
@@ -1911,7 +1911,7 @@
       "quotable_min_price_per_1000": 2.87,
       "quotable_max_price_per_1000": 123.3765,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "snapchat",
@@ -1922,7 +1922,7 @@
       "day": "2026-11-12",
       "currency": "USD",
       "min_price_per_1000": 2.63,
-      "p25_price_per_1000": 5.43333,
+      "p25_price_per_1000": 5.41581,
       "median_price_per_1000": 7,
       "p75_price_per_1000": 26.25,
       "max_price_per_1000": 449.91,
@@ -1931,7 +1931,7 @@
       "quotable_min_price_per_1000": 2.63,
       "quotable_max_price_per_1000": 68.93,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "pinterest",
@@ -1951,7 +1951,7 @@
       "quotable_min_price_per_1000": 10.38,
       "quotable_max_price_per_1000": 13.2864,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "pinterest",
@@ -1971,7 +1971,7 @@
       "quotable_min_price_per_1000": 1.0395,
       "quotable_max_price_per_1000": 45.6,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "pinterest",
@@ -1982,8 +1982,8 @@
       "day": "2026-11-12",
       "currency": "USD",
       "min_price_per_1000": 0.625,
-      "p25_price_per_1000": 2.5195350000000003,
-      "median_price_per_1000": 5.36372,
+      "p25_price_per_1000": 2.515425,
+      "median_price_per_1000": 5.34631,
       "p75_price_per_1000": 9.295,
       "max_price_per_1000": 70.68,
       "panels_sampled": 35,
@@ -1991,7 +1991,7 @@
       "quotable_min_price_per_1000": 0.625,
       "quotable_max_price_per_1000": 39,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "pinterest",
@@ -2009,9 +2009,9 @@
       "panels_sampled": 14,
       "url": "https://panelcompare.com/services/pinterest/video-views",
       "quotable_min_price_per_1000": 2.116,
-      "quotable_max_price_per_1000": 19.0854,
+      "quotable_max_price_per_1000": 19.0867,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "pinterest",
@@ -2031,7 +2031,7 @@
       "quotable_min_price_per_1000": 1.5451,
       "quotable_max_price_per_1000": 106.037888,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "pinterest",
@@ -2045,13 +2045,13 @@
       "p25_price_per_1000": 22.8475,
       "median_price_per_1000": 37.23,
       "p75_price_per_1000": 48.2,
-      "max_price_per_1000": 197.09729442,
+      "max_price_per_1000": 196.98356484,
       "panels_sampled": 21,
       "url": "https://panelcompare.com/services/pinterest/comments",
       "quotable_min_price_per_1000": 6.27,
-      "quotable_max_price_per_1000": 197.09729442,
+      "quotable_max_price_per_1000": 196.98356484,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "soundcloud",
@@ -2065,13 +2065,13 @@
       "p25_price_per_1000": 1.17,
       "median_price_per_1000": 2.359552,
       "p75_price_per_1000": 14.5,
-      "max_price_per_1000": 220.98787554,
+      "max_price_per_1000": 220.86036054,
       "panels_sampled": 41,
       "url": "https://panelcompare.com/services/soundcloud/plays",
       "quotable_min_price_per_1000": 0.25,
       "quotable_max_price_per_1000": 23.04,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "soundcloud",
@@ -2082,16 +2082,16 @@
       "day": "2026-11-12",
       "currency": "USD",
       "min_price_per_1000": 1.25,
-      "p25_price_per_1000": 8.47215,
-      "median_price_per_1000": 13.024000000000001,
-      "p75_price_per_1000": 22.56,
+      "p25_price_per_1000": 8.4525,
+      "median_price_per_1000": 13,
+      "p75_price_per_1000": 22.4,
       "max_price_per_1000": 97.5,
-      "panels_sampled": 37,
+      "panels_sampled": 38,
       "url": "https://panelcompare.com/services/soundcloud/likes",
       "quotable_min_price_per_1000": 1.3095,
       "quotable_max_price_per_1000": 97.5,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "soundcloud",
@@ -2102,7 +2102,7 @@
       "day": "2026-11-12",
       "currency": "USD",
       "min_price_per_1000": 0.987,
-      "p25_price_per_1000": 8.627210000000002,
+      "p25_price_per_1000": 8.61325,
       "median_price_per_1000": 15.24,
       "p75_price_per_1000": 37.95,
       "max_price_per_1000": 229.0704,
@@ -2111,7 +2111,7 @@
       "quotable_min_price_per_1000": 1.55,
       "quotable_max_price_per_1000": 132.156,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "soundcloud",
@@ -2122,16 +2122,16 @@
       "day": "2026-11-12",
       "currency": "USD",
       "min_price_per_1000": 1.25,
-      "p25_price_per_1000": 8.63,
+      "p25_price_per_1000": 8.621625000000002,
       "median_price_per_1000": 14.4,
       "p75_price_per_1000": 31.2,
-      "max_price_per_1000": 217.40428836,
-      "panels_sampled": 39,
+      "max_price_per_1000": 217.2788412,
+      "panels_sampled": 40,
       "url": "https://panelcompare.com/services/soundcloud/followers",
       "quotable_min_price_per_1000": 2.7,
       "quotable_max_price_per_1000": 139.65,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "soundcloud",
@@ -2151,7 +2151,7 @@
       "quotable_min_price_per_1000": 4.5,
       "quotable_max_price_per_1000": 375,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "soundcloud",
@@ -2171,7 +2171,7 @@
       "quotable_min_price_per_1000": 0.6,
       "quotable_max_price_per_1000": 4.038,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "discord",
@@ -2182,16 +2182,16 @@
       "day": "2026-11-12",
       "currency": "USD",
       "min_price_per_1000": 1.045,
-      "p25_price_per_1000": 4.195,
+      "p25_price_per_1000": 4.1188,
       "median_price_per_1000": 6.75,
-      "p75_price_per_1000": 15.631875,
+      "p75_price_per_1000": 15.530625,
       "max_price_per_1000": 86.2769,
       "panels_sampled": 39,
       "url": "https://panelcompare.com/services/discord/members-offline",
       "quotable_min_price_per_1000": 1.045,
       "quotable_max_price_per_1000": 61.74,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "discord",
@@ -2203,15 +2203,15 @@
       "currency": "USD",
       "min_price_per_1000": 2.24,
       "p25_price_per_1000": 3.25,
-      "median_price_per_1000": 4.095,
-      "p75_price_per_1000": 4.4234,
-      "max_price_per_1000": 12.22,
+      "median_price_per_1000": 3.9776,
+      "p75_price_per_1000": 4.2775,
+      "max_price_per_1000": 12.23,
       "panels_sampled": 5,
       "url": "https://panelcompare.com/services/discord/members-online",
       "quotable_min_price_per_1000": 2.24,
-      "quotable_max_price_per_1000": 12.22,
+      "quotable_max_price_per_1000": 12.23,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "discord",
@@ -2222,7 +2222,7 @@
       "day": "2026-11-12",
       "currency": "USD",
       "min_price_per_1000": 1.4184,
-      "p25_price_per_1000": 5.12,
+      "p25_price_per_1000": 5.1049999999999995,
       "median_price_per_1000": 8.675,
       "p75_price_per_1000": 12.71675,
       "max_price_per_1000": 7752.78,
@@ -2231,7 +2231,7 @@
       "quotable_min_price_per_1000": null,
       "quotable_max_price_per_1000": null,
       "comparable": false,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "discord",
@@ -2244,14 +2244,14 @@
       "min_price_per_1000": 1.87,
       "p25_price_per_1000": 3.6,
       "median_price_per_1000": 4.8,
-      "p75_price_per_1000": 11.6,
+      "p75_price_per_1000": 11.61,
       "max_price_per_1000": 136.5,
       "panels_sampled": 17,
       "url": "https://panelcompare.com/services/discord/reactions",
       "quotable_min_price_per_1000": 1.87,
-      "quotable_max_price_per_1000": 21.157,
+      "quotable_max_price_per_1000": 21.1584,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "reddit",
@@ -2271,7 +2271,7 @@
       "quotable_min_price_per_1000": 3.5,
       "quotable_max_price_per_1000": 220.7781,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "reddit",
@@ -2291,7 +2291,7 @@
       "quotable_min_price_per_1000": 10.45,
       "quotable_max_price_per_1000": 108,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "reddit",
@@ -2305,13 +2305,13 @@
       "p25_price_per_1000": 3.9,
       "median_price_per_1000": 8.385,
       "p75_price_per_1000": 13.365,
-      "max_price_per_1000": 380.45750463,
+      "max_price_per_1000": 380.23797207,
       "panels_sampled": 34,
       "url": "https://panelcompare.com/services/reddit/subscribers",
       "quotable_min_price_per_1000": 0.84,
       "quotable_max_price_per_1000": 33.76,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "reddit",
@@ -2331,7 +2331,7 @@
       "quotable_min_price_per_1000": 5.225,
       "quotable_max_price_per_1000": 285,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "reddit",
@@ -2351,7 +2351,7 @@
       "quotable_min_price_per_1000": 0.04,
       "quotable_max_price_per_1000": 2.0888,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "reddit",
@@ -2362,7 +2362,7 @@
       "day": "2026-11-12",
       "currency": "USD",
       "min_price_per_1000": 0.8,
-      "p25_price_per_1000": 4.8327,
+      "p25_price_per_1000": 4.8331,
       "median_price_per_1000": 11.7,
       "p75_price_per_1000": 19.9289,
       "max_price_per_1000": 140.7589,
@@ -2371,7 +2371,7 @@
       "quotable_min_price_per_1000": 1.2,
       "quotable_max_price_per_1000": 108.81,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "kick",
@@ -2382,16 +2382,16 @@
       "day": "2026-11-12",
       "currency": "USD",
       "min_price_per_1000": 0.2622,
-      "p25_price_per_1000": 1.0062,
-      "median_price_per_1000": 4.17,
-      "p75_price_per_1000": 7.6547025,
+      "p25_price_per_1000": 1.02,
+      "median_price_per_1000": 4.2,
+      "p75_price_per_1000": 7.64403,
       "max_price_per_1000": 211.85,
       "panels_sampled": 42,
       "url": "https://panelcompare.com/services/kick/followers",
       "quotable_min_price_per_1000": 0.4227,
       "quotable_max_price_per_1000": 40,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "kick",
@@ -2404,14 +2404,14 @@
       "min_price_per_1000": 0.015,
       "p25_price_per_1000": 0.5985,
       "median_price_per_1000": 2.4,
-      "p75_price_per_1000": 10.8,
+      "p75_price_per_1000": 10.6013,
       "max_price_per_1000": 94330.78,
       "panels_sampled": 50,
       "url": "https://panelcompare.com/services/kick/live-viewers",
       "quotable_min_price_per_1000": 0.24,
-      "quotable_max_price_per_1000": 23.9402,
+      "quotable_max_price_per_1000": 23.9418,
       "comparable": false,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "kick",
@@ -2424,14 +2424,14 @@
       "min_price_per_1000": 0.009,
       "p25_price_per_1000": 0.0252,
       "median_price_per_1000": 0.054,
-      "p75_price_per_1000": 0.14931618,
+      "p75_price_per_1000": 0.14923002,
       "max_price_per_1000": 115.8405,
       "panels_sampled": 24,
       "url": "https://panelcompare.com/services/kick/views",
       "quotable_min_price_per_1000": 0.009,
       "quotable_max_price_per_1000": 0.4408,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "rumble",
@@ -2444,14 +2444,14 @@
       "min_price_per_1000": 0.5472,
       "p25_price_per_1000": 0.8,
       "median_price_per_1000": 1.536,
-      "p75_price_per_1000": 4.1999,
+      "p75_price_per_1000": 4.2002,
       "max_price_per_1000": 5.625,
       "panels_sampled": 25,
       "url": "https://panelcompare.com/services/rumble/views",
       "quotable_min_price_per_1000": 0.5472,
       "quotable_max_price_per_1000": 5.625,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "rumble",
@@ -2464,14 +2464,14 @@
       "min_price_per_1000": 2.5,
       "p25_price_per_1000": 11.75625,
       "median_price_per_1000": 18.45,
-      "p75_price_per_1000": 26.2511,
+      "p75_price_per_1000": 26.2528,
       "max_price_per_1000": 36,
       "panels_sampled": 10,
       "url": "https://panelcompare.com/services/rumble/likes",
       "quotable_min_price_per_1000": 2.5,
       "quotable_max_price_per_1000": 36,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "rumble",
@@ -2483,15 +2483,15 @@
       "currency": "USD",
       "min_price_per_1000": 0.77,
       "p25_price_per_1000": 2.3,
-      "median_price_per_1000": 4.59,
-      "p75_price_per_1000": 12.84215,
-      "max_price_per_1000": 567.2696,
+      "median_price_per_1000": 4.58,
+      "p75_price_per_1000": 12.79585,
+      "max_price_per_1000": 565.1283,
       "panels_sampled": 9,
       "url": "https://panelcompare.com/services/rumble/live-viewers",
       "quotable_min_price_per_1000": 0.77,
       "quotable_max_price_per_1000": 36.97,
       "comparable": false,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "shazam",
@@ -2502,7 +2502,7 @@
       "day": "2026-11-12",
       "currency": "USD",
       "min_price_per_1000": 1,
-      "p25_price_per_1000": 2.3637925,
+      "p25_price_per_1000": 2.3487925,
       "median_price_per_1000": 6.2,
       "p75_price_per_1000": 15,
       "max_price_per_1000": 41.691,
@@ -2511,7 +2511,7 @@
       "quotable_min_price_per_1000": 1,
       "quotable_max_price_per_1000": 41.691,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "apple-music",
@@ -2525,13 +2525,13 @@
       "p25_price_per_1000": 6.656,
       "median_price_per_1000": 9.02,
       "p75_price_per_1000": 12.6,
-      "max_price_per_1000": 5659.7843,
+      "max_price_per_1000": 5660.1586,
       "panels_sampled": 26,
       "url": "https://panelcompare.com/services/apple-music/plays",
       "quotable_min_price_per_1000": 3.9986,
       "quotable_max_price_per_1000": 63.97664,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "deezer",
@@ -2551,7 +2551,7 @@
       "quotable_min_price_per_1000": 0.4,
       "quotable_max_price_per_1000": 3.96,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "deezer",
@@ -2571,7 +2571,7 @@
       "quotable_min_price_per_1000": 1.998,
       "quotable_max_price_per_1000": 12.8,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "audiomack",
@@ -2591,7 +2591,7 @@
       "quotable_min_price_per_1000": 0.7,
       "quotable_max_price_per_1000": 36,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "audiomack",
@@ -2604,14 +2604,14 @@
       "min_price_per_1000": 0.2,
       "p25_price_per_1000": 0.965,
       "median_price_per_1000": 2.174,
-      "p75_price_per_1000": 5.50613401,
+      "p75_price_per_1000": 5.503411555,
       "max_price_per_1000": 40.8135,
       "panels_sampled": 29,
       "url": "https://panelcompare.com/services/audiomack/followers",
       "quotable_min_price_per_1000": 0.3,
       "quotable_max_price_per_1000": 18,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "vimeo",
@@ -2625,13 +2625,13 @@
       "p25_price_per_1000": 0.63,
       "median_price_per_1000": 0.96,
       "p75_price_per_1000": 3.6,
-      "max_price_per_1000": 117.06784925,
+      "max_price_per_1000": 116.98943452,
       "panels_sampled": 20,
       "url": "https://panelcompare.com/services/vimeo/views",
       "quotable_min_price_per_1000": 0.3,
-      "quotable_max_price_per_1000": 4.58519982,
+      "quotable_max_price_per_1000": 4.5828,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "vimeo",
@@ -2651,7 +2651,7 @@
       "quotable_min_price_per_1000": 3.325,
       "quotable_max_price_per_1000": 45,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "vk",
@@ -2671,7 +2671,7 @@
       "quotable_min_price_per_1000": 0.01536,
       "quotable_max_price_per_1000": 1.4,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "vk",
@@ -2691,7 +2691,7 @@
       "quotable_min_price_per_1000": 0.2375,
       "quotable_max_price_per_1000": 15.6,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "vk",
@@ -2705,13 +2705,13 @@
       "p25_price_per_1000": 1.2094275,
       "median_price_per_1000": 2.9124999999999996,
       "p75_price_per_1000": 10.887500000000001,
-      "max_price_per_1000": 261.08,
+      "max_price_per_1000": 260.08,
       "panels_sampled": 30,
       "url": "https://panelcompare.com/services/vk/followers",
       "quotable_min_price_per_1000": 0.3325,
       "quotable_max_price_per_1000": 28.16,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "whatsapp",
@@ -2724,14 +2724,14 @@
       "min_price_per_1000": 0.0012,
       "p25_price_per_1000": 2.4,
       "median_price_per_1000": 4.5,
-      "p75_price_per_1000": 7.88,
+      "p75_price_per_1000": 7.68,
       "max_price_per_1000": 38.4,
-      "panels_sampled": 53,
+      "panels_sampled": 54,
       "url": "https://panelcompare.com/services/whatsapp/channel-followers",
       "quotable_min_price_per_1000": 0.4594,
       "quotable_max_price_per_1000": 38.4,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "whatsapp",
@@ -2744,14 +2744,14 @@
       "min_price_per_1000": 0.0184,
       "p25_price_per_1000": 0.88,
       "median_price_per_1000": 1.32,
-      "p75_price_per_1000": 4.8139,
-      "max_price_per_1000": 475.2523,
-      "panels_sampled": 43,
+      "p75_price_per_1000": 4.8142,
+      "max_price_per_1000": 475.2837,
+      "panels_sampled": 44,
       "url": "https://panelcompare.com/services/whatsapp/channel-reactions",
       "quotable_min_price_per_1000": 0.132,
       "quotable_max_price_per_1000": 12.6,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "quora",
@@ -2771,7 +2771,7 @@
       "quotable_min_price_per_1000": 6.84,
       "quotable_max_price_per_1000": 15.12,
       "comparable": false,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "behance",
@@ -2782,16 +2782,16 @@
       "day": "2026-11-12",
       "currency": "USD",
       "min_price_per_1000": 2.5,
-      "p25_price_per_1000": 10.469125,
-      "median_price_per_1000": 13.1255,
-      "p75_price_per_1000": 16.4069,
-      "max_price_per_1000": 26.2511,
+      "p25_price_per_1000": 10.4698,
+      "median_price_per_1000": 13.1264,
+      "p75_price_per_1000": 16.408,
+      "max_price_per_1000": 26.2528,
       "panels_sampled": 2,
       "url": "https://panelcompare.com/services/behance/appreciations",
       "quotable_min_price_per_1000": 2.5,
-      "quotable_max_price_per_1000": 26.2511,
+      "quotable_max_price_per_1000": 26.2528,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "clubhouse",
@@ -2811,7 +2811,7 @@
       "quotable_min_price_per_1000": 11.705035,
       "quotable_max_price_per_1000": 1150,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "onlyfans",
@@ -2822,16 +2822,16 @@
       "day": "2026-11-12",
       "currency": "USD",
       "min_price_per_1000": 1,
-      "p25_price_per_1000": 23.755000000000003,
+      "p25_price_per_1000": 23.740000000000002,
       "median_price_per_1000": 167.5386,
       "p75_price_per_1000": 4050,
       "max_price_per_1000": 375000,
       "panels_sampled": 27,
       "url": "https://panelcompare.com/services/onlyfans/comments",
-      "quotable_min_price_per_1000": 16.92,
+      "quotable_min_price_per_1000": 16.89,
       "quotable_max_price_per_1000": 1638.75,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "reviews",
@@ -2851,7 +2851,7 @@
       "quotable_min_price_per_1000": 546.003,
       "quotable_max_price_per_1000": 19470,
       "comparable": false,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "reviews",
@@ -2871,7 +2871,7 @@
       "quotable_min_price_per_1000": 150,
       "quotable_max_price_per_1000": 4009.5,
       "comparable": false,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "website-traffic",
@@ -2882,16 +2882,16 @@
       "day": "2026-11-12",
       "currency": "USD",
       "min_price_per_1000": 0.021,
-      "p25_price_per_1000": 0.38541,
-      "median_price_per_1000": 1.26885,
+      "p25_price_per_1000": 0.3755,
+      "median_price_per_1000": 1.26,
       "p75_price_per_1000": 2.73,
       "max_price_per_1000": 9000,
-      "panels_sampled": 45,
+      "panels_sampled": 47,
       "url": "https://panelcompare.com/services/website-traffic/worldwide-traffic",
       "quotable_min_price_per_1000": 0.1311,
-      "quotable_max_price_per_1000": 12.1275,
+      "quotable_max_price_per_1000": 12.1283,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "website-traffic",
@@ -2911,7 +2911,7 @@
       "quotable_min_price_per_1000": 0.175,
       "quotable_max_price_per_1000": 7.86,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "website-traffic",
@@ -2922,16 +2922,16 @@
       "day": "2026-11-12",
       "currency": "USD",
       "min_price_per_1000": 0.015001,
-      "p25_price_per_1000": 0.3871,
-      "median_price_per_1000": 0.47,
+      "p25_price_per_1000": 0.375,
+      "median_price_per_1000": 0.46,
       "p75_price_per_1000": 0.7,
       "max_price_per_1000": 1170,
-      "panels_sampled": 40,
+      "panels_sampled": 42,
       "url": "https://panelcompare.com/services/website-traffic/referral-traffic",
       "quotable_min_price_per_1000": 0.075001,
-      "quotable_max_price_per_1000": 3.9921,
+      "quotable_max_price_per_1000": 3.9924,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "website-traffic",
@@ -2942,16 +2942,16 @@
       "day": "2026-11-12",
       "currency": "USD",
       "min_price_per_1000": 0.149,
-      "p25_price_per_1000": 0.5010001,
-      "median_price_per_1000": 0.81,
-      "p75_price_per_1000": 2,
+      "p25_price_per_1000": 0.5,
+      "median_price_per_1000": 0.79,
+      "p75_price_per_1000": 1.9849999999999999,
       "max_price_per_1000": 8000,
-      "panels_sampled": 34,
+      "panels_sampled": 36,
       "url": "https://panelcompare.com/services/website-traffic/search-traffic",
       "quotable_min_price_per_1000": 0.149,
       "quotable_max_price_per_1000": 7.84,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "website-traffic",
@@ -2971,7 +2971,7 @@
       "quotable_min_price_per_1000": 0.175,
       "quotable_max_price_per_1000": 3.2,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "website-traffic",
@@ -2991,7 +2991,7 @@
       "quotable_min_price_per_1000": 2.8125,
       "quotable_max_price_per_1000": 8.4,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     },
     {
       "platform_slug": "website-traffic",
@@ -3002,16 +3002,16 @@
       "day": "2026-11-12",
       "currency": "USD",
       "min_price_per_1000": 0.4864,
-      "p25_price_per_1000": 0.5378864999999999,
+      "p25_price_per_1000": 0.536481,
       "median_price_per_1000": 0.55,
-      "p75_price_per_1000": 1.6191499999999999,
-      "max_price_per_1000": 2.7202,
+      "p75_price_per_1000": 1.6192,
+      "max_price_per_1000": 2.7204,
       "panels_sampled": 4,
       "url": "https://panelcompare.com/services/website-traffic/ai-referrer-traffic",
       "quotable_min_price_per_1000": 0.4864,
-      "quotable_max_price_per_1000": 2.7202,
+      "quotable_max_price_per_1000": 2.7204,
       "comparable": true,
-      "computed_at": "2026-11-12T07:05:07.000Z"
+      "computed_at": "2026-11-12T22:05:05.000Z"
     }
   ]
 }
