@@ -10655,3 +10655,177 @@ day,platform_slug,service_slug,service,min_price_per_1000,median_price_per_1000,
 2026-11-20,youtube,subscribers,YouTube Subscribers,0.0001,22.1616,21646.1908,2.27,215.99,65
 2026-11-20,youtube,views,YouTube Views,0.08,2.363392,238658.33,0.24,23.625,66
 2026-11-20,youtube,watch-hours,YouTube Watch Hours,0.35,25.755000000000003,2340,2.5768,240.8,50
+2026-11-21,app-stores,installs,App Stores (Google Play / App Store) App Installs,31.9602,262.5023,11204.7,31.9602,2205,22
+2026-11-21,apple-music,plays,Apple Music Plays / Streams,0.34,8.31,5660.1581,1.13,63.97664,29
+2026-11-21,audiomack,followers,Audiomack Followers,0.2,2,40.8135,0.2,18,31
+2026-11-21,audiomack,plays,Audiomack Plays / Streams,0.026,7,39,0.7,39,31
+2026-11-21,behance,appreciations,Behance Appreciations (Likes),2.5,13.1262,26.2523,2.5,26.2523,2
+2026-11-21,behance,followers,Behance Followers,48.92,91.91,367.79245434,48.92,367.79245434,6
+2026-11-21,bigo,live-viewers,Bigo Live Live Viewers,0.0735,5.46,1888.38,0.6947,50.7,6
+2026-11-21,clubhouse,followers,Clubhouse Followers,0.418,10.04,1260,1.6948,49.024,22
+2026-11-21,clubhouse,room-visitors,Clubhouse Room Visitors,3.6,49.442099999999996,2268.0023,9,414,17
+2026-11-21,deezer,followers,Deezer Followers / Likes,0.4,0.75,3.9,0.4,3.9,27
+2026-11-21,deezer,plays,Deezer Plays,0.52,7.992,13.5,1.998,13.5,6
+2026-11-21,discord,boosts,Discord Server Boosts,1.4087,14.24,21360,,,7
+2026-11-21,discord,members-offline,Discord Server Members (offline),1.045,6.4392,1199.4,1.045,61.9425,47
+2026-11-21,discord,members-online,Discord Server Members (online / real),2.04,3.5187999999999997,4.46,2.04,4.46,5
+2026-11-21,discord,reactions,Discord Message Reactions / Emoji,2.02,4.44495,136.5,2.02,21.1582,19
+2026-11-21,facebook,comments,Facebook Comments,0.088,21.66126,7800,2.17,216,72
+2026-11-21,facebook,event-interested,Facebook Event Interested / Going,1.0717,7.7517,329.6475,1.0717,69.12,27
+2026-11-21,facebook,group-members,Facebook Group Members,0.1075,0.9393935,475.3692,0.1075,9.3011,67
+2026-11-21,facebook,live-views,Facebook Live Views,0.035,6.71,11923.2,0.678,66.768,64
+2026-11-21,facebook,page-followers,Facebook Page / Profile Followers,0.0836,0.4815,120000,0.0836,4.8015,80
+2026-11-21,facebook,page-likes,Facebook Page Likes,0.1727,4.06,14250,0.4074,40,60
+2026-11-21,facebook,post-likes,Facebook Post Likes,0.04,2.6312499999999996,9500,0.263589,26.12,75
+2026-11-21,facebook,reactions,Facebook Reactions,0.008,0.85,1235,0.085,8.4,71
+2026-11-21,facebook,shares,Facebook Post Shares,0.005,2.2878499999999997,420,0.2288,22.8,67
+2026-11-21,facebook,video-views,Facebook Video Views,0.005,0.2517,15000,0.0252,2.496,72
+2026-11-21,github,comments,GitHub Issue / PR Comments,18.62,74.52,293.64074988,18.62,293.64074988,12
+2026-11-21,github,followers,GitHub Profile Followers,4.5,58.57,793.98,6.75,235,20
+2026-11-21,github,stars,GitHub Stars / Watch / Forks,4.5,59.6931,168.201,6.75,168.201,16
+2026-11-21,instagram,channel-members,Instagram Broadcast Channel Members,0.1155,0.79,1501.5,0.1155,7.8375,45
+2026-11-21,instagram,comments,Instagram Comments,0.0252,17.55,39000,1.7593,175.5,79
+2026-11-21,instagram,followers,Instagram Followers,0.0001,3.88,100000,0.3885,38.61,83
+2026-11-21,instagram,impressions,Instagram Impressions,0.0016,0.195,1125,0.0195,1.93104,64
+2026-11-21,instagram,likes,Instagram Likes,0.001,0.57,384000,0.0572,5.69,82
+2026-11-21,instagram,live-views,Instagram Live Views,0.0234,25.12,2447.00624856,2.5339,249.6,33
+2026-11-21,instagram,mentions,Instagram Mentions,1.03812386,7.250505,4152.96,1.16354,64.4846,24
+2026-11-21,instagram,profile-visits,Instagram Profile Visits,0.00216431,0.2,1875,0.02,2,52
+2026-11-21,instagram,reach,Instagram Reach,0.06,0.5714999999999999,317362.5,0.06,3.6834,23
+2026-11-21,instagram,reels-views,Instagram Reels Views,0.00217674,9.12,500,0.9216002,90,22
+2026-11-21,instagram,saves,Instagram Saves,0.0022,0.14279999999999998,30000,0.0143864,1.4,63
+2026-11-21,instagram,shares,Instagram Shares,0.0005,0.1,3663.09420234,0.01,1,63
+2026-11-21,instagram,story-views,Instagram Story Views,0.0021,1.270865,725.45,0.1299,12.5,72
+2026-11-21,instagram,views,Instagram Video Views,0.0001,0.02059,1500,0.0020864,0.20416,82
+2026-11-21,kick,followers,Kick Followers,0.168,2.665,211.85,0.2964,23.0343,47
+2026-11-21,kick,live-viewers,Kick Live Viewers,0.0043,2.4,94330.78,0.24,24,58
+2026-11-21,kick,views,Kick VOD / Clip Views,0.009,0.4828,1081.2438,0.05,4.3141,25
+2026-11-21,likee,followers,Likee Followers,3.08,10.819749999999999,46.2,3.08,46.2,19
+2026-11-21,likee,likes,Likee Likes / Shares,1.05,5.88,24.9987,1.05,24.9987,19
+2026-11-21,likee,views,Likee Views,0.334,5.89,210,0.66,55.5528,20
+2026-11-21,line,official-account-followers,LINE Official Account / VOOM Followers,12.5,59.8112,1819.85368248,12.5,525.0015,24
+2026-11-21,line,openchat-members,LINE OpenChat Group Members,121.5,227.34,453.6,121.5,453.6,7
+2026-11-21,linkedin,comments,LinkedIn Comments,0.828,37.07,6930,4.5,330,55
+2026-11-21,linkedin,company-followers,LinkedIn Company Page Followers,0.5555,20,37500,3.8,180,63
+2026-11-21,linkedin,connections,LinkedIn Connections,8.1,57.5,25000,8.1,300,49
+2026-11-21,linkedin,endorsements,LinkedIn Skill Endorsements,15.7383,168.454,35100,24.8817,1166.2,31
+2026-11-21,linkedin,group-members,LinkedIn Group Members / Newsletter Subscribers,11.319,66.8875,390,11.319,390,32
+2026-11-21,linkedin,post-likes,LinkedIn Post Reactions,3.6,20.761899999999997,194.04,3.6,194.04,61
+2026-11-21,linkedin,profile-followers,LinkedIn Profile Followers,4.37,19.42,127.5,4.37,127.5,42
+2026-11-21,linkedin,shares,LinkedIn Shares / Reposts,0.145,4.12,1408,0.45,41.1051,50
+2026-11-21,medium,claps,Medium Claps,3.125,10.308489999999999,69.3016,3.125,69.3016,15
+2026-11-21,medium,followers,Medium Followers,5,19.6,162.514,5,162.514,22
+2026-11-21,mixcloud,plays,Mixcloud Plays,0.56,1.49172,5.85,0.56,5.85,12
+2026-11-21,onlyfans,comments,OnlyFans Custom Comments,5.5037,412.0594,21670.74,43.5708,3153.15,5
+2026-11-21,onlyfans,subscribers,OnlyFans Subscribers / Likes (packages),18,27,375,,,2
+2026-11-21,pinterest,board-followers,Pinterest Board Followers,1.5165,12.30625,211.25,1.5165,122.06,23
+2026-11-21,pinterest,comments,Pinterest Comments,6.27,38.324754,195.76049994,6.27,195.76049994,24
+2026-11-21,pinterest,followers,Pinterest Followers,10.38,11.833200000000001,13.2864,10.38,13.2864,2
+2026-11-21,pinterest,likes,Pinterest Pin Reactions,0.625,5.4221,97.88025,0.625,39,40
+2026-11-21,pinterest,saves,Pinterest Saves,0.45,6.6,84,0.68,62,35
+2026-11-21,pinterest,video-views,Pinterest Video Pin Views,2.56676,4.096,62.6304,2.56676,19.0866,15
+2026-11-21,quora,answer-views,Quora Answer Views,0.168,0.75,10828.1271,0.168,7.36194,34
+2026-11-21,quora,followers,Quora Followers / Question Follows,0.2,8.77,195,1.57,84.71,33
+2026-11-21,quora,upvotes,Quora Answer Upvotes,1.57,8.64,163,1.57,86.37190542,27
+2026-11-21,reddit,comments,Reddit Comments,0.0418,41.74,443.016,5.225,343.98,28
+2026-11-21,reddit,downvotes,Reddit Downvotes,10.45,30,135,10.45,135,18
+2026-11-21,reddit,followers,Reddit Profile Followers,0.8,11.625,276.125,1.2,114.66,36
+2026-11-21,reddit,subscribers,Reddit Subreddit Members,0.8,8.785,377.87708616,0.92,67.5,37
+2026-11-21,reddit,upvotes,Reddit Post / Comment Upvotes,3.5,23.4075,661.752,3.5,220.7781,38
+2026-11-21,reddit,views,Reddit Post Views,0.04,0.225,2.56,0.04,2.0888,22
+2026-11-21,reviews,google-reviews,Business Reviews (Trustpilot / Google / TripAdvisor) Google Business / Maps Reviews,0.78,1335,211200,150,3600,10
+2026-11-21,reviews,trustpilot-reviews,Business Reviews (Trustpilot / Google / TripAdvisor) Trustpilot Reviews,1.65,4477.5,36600,455.0025,36600,26
+2026-11-21,roblox,followers,Roblox Followers,0.5909,3.42,12.2236,0.5909,12.2236,13
+2026-11-21,rumble,likes,Rumble Likes,2.5,18.9,36,2.5,36,13
+2026-11-21,rumble,live-viewers,Rumble Live Viewers,0.77,6.15,589.6758,0.77,55.13,9
+2026-11-21,rumble,subscribers,Rumble Subscribers / Followers,20.25,26.439999999999998,33.75,20.25,33.75,2
+2026-11-21,rumble,views,Rumble Video Views,0.5472,1.536,10.22566524,0.5472,10.22566524,28
+2026-11-21,shazam,plays,Shazam Shazams / Plays,1,5.7756,41.691,1,41.691,23
+2026-11-21,snapchat,followers,Snapchat Followers,4.5,44.057,3960,4.5,270.585,53
+2026-11-21,snapchat,spotlight-views,Snapchat Spotlight Views,2.63,7.31,700.98,2.63,72.8379,26
+2026-11-21,snapchat,story-views,Snapchat Story Views,1.0752,8.02,590.28,1.0752,78.4,28
+2026-11-21,soundcloud,comments,SoundCloud Comments,4.5,41.3978,405,4.5,405,35
+2026-11-21,soundcloud,downloads,SoundCloud Downloads,0.6,3.78,4.038,0.6,4.038,2
+2026-11-21,soundcloud,followers,SoundCloud Followers,1.25,14.85,215.92976352,2.7,120.49,42
+2026-11-21,soundcloud,likes,SoundCloud Likes,1.25,13.5207,105,1.5,105,40
+2026-11-21,soundcloud,plays,SoundCloud Plays,0.02,2.346,219.48904536,0.25,23.04,44
+2026-11-21,soundcloud,reposts,SoundCloud Reposts,0.987,15.24,231.273,1.55,127.24432494,38
+2026-11-21,spotify,album-plays,Spotify Album Plays,0.19,0.86,220.68,0.19,3.32,35
+2026-11-21,spotify,followers,Spotify Followers,0.0984,0.576,628.286,0.0984,5.52286,54
+2026-11-21,spotify,monthly-listeners,Spotify Monthly Listeners,0.325,1.8,927.1157953,0.325,16.14,51
+2026-11-21,spotify,playlist-followers,Spotify Playlist Followers,0.23,1.08,57.7503,0.23,3.6288,22
+2026-11-21,spotify,playlist-plays,Spotify Playlist Plays,0.0863,0.72,60,0.0863,5.12,40
+2026-11-21,spotify,plays,Spotify Plays,0.0863,0.85,2547.9288,0.0863,8.2556,57
+2026-11-21,spotify,podcast-plays,Spotify Podcast / Episode Plays,0.2917,0.508928,8.95778,0.2917,4,21
+2026-11-21,spotify,saves,Spotify Saves,0.095,1.06078,269.451,0.11,9.2,44
+2026-11-21,steam,comments,Steam Profile Comments / Rep,10.14,20.2873,20.2873,10.14,20.2873,2
+2026-11-21,steam,likes-favorites,Steam Likes / Favourites,1.49,2.54,38.55888636,1.49,20.2873,5
+2026-11-21,telegram,bot-starts,Telegram Bot Starts / Subscribers,0.062,2.625,523.3,0.2625,25.6,65
+2026-11-21,telegram,channel-members,Telegram Channel Members,0.003,1.408,116620,0.1425,14.064,79
+2026-11-21,telegram,comments,Telegram Post Comments,0.005,3.98,1663.8,0.483,39.6905,46
+2026-11-21,telegram,group-members,Telegram Group Members,0.014,0.88,3500,0.0896,8.2,46
+2026-11-21,telegram,post-views,Telegram Post Views,0.0008,0.19,4700,0.019,1.8868,71
+2026-11-21,telegram,premium-members,Telegram Premium Members,0.015,8.19,122200,0.84,81.7,73
+2026-11-21,telegram,premium-stars,Telegram Telegram Stars,0.06,27,177938.3912,14,128.32,29
+2026-11-21,telegram,reactions-negative,Telegram Reactions (negative / dislike),0.0002,0.072,26109.84,0.0072,0.72,49
+2026-11-21,telegram,reactions-positive,Telegram Reactions (positive),0.0002,0.0338,1296,0.005,0.331010000002,68
+2026-11-21,telegram,shares-forwards,Telegram Post Shares / Forwards,0.0071,0.2661,33.6,0.03,2.59,43
+2026-11-21,telegram,story-views,Telegram Story Views,0.00176782,0.149222,660,0.015,1.44,56
+2026-11-21,telegram,votes,Telegram Poll Votes,0.02,0.37,173.72,0.0881,2,36
+2026-11-21,threads,comments,Threads Replies,0.266,16.2,2538.76,1.79,158.2308,42
+2026-11-21,threads,followers,Threads Followers,0.475,7.2,6346.89,0.732,68.4,51
+2026-11-21,threads,likes,Threads Likes,0.475,6.13,236.66,0.6136,55.2,47
+2026-11-21,threads,reposts,Threads Reposts / Reshares,1.539,8.734905000000001,720,3.08,31.7645,19
+2026-11-21,threads,views,Threads Views,0.5,3.90425,17.3269,0.5,17.3269,16
+2026-11-21,tidal,plays,Tidal / Napster Plays / Video Plays,4.725,19.67328,134.505,4.725,134.505,11
+2026-11-21,tiktok,comments,TikTok Comments,0.001,4.28637,4747.551,0.43,42.75,77
+2026-11-21,tiktok,favorites,TikTok Favourites,0.16,14.45356363,367.79245434,1.59,133.76,16
+2026-11-21,tiktok,followers,TikTok Followers,0.01,2.7,5940,0.27,27,82
+2026-11-21,tiktok,likes,TikTok Likes,0.01,0.672125,9500,0.0678748,6.69743,82
+2026-11-21,tiktok,live-likes,TikTok Live Likes,0.0082,0.06,333.45,0.0082,0.544124,30
+2026-11-21,tiktok,live-views,TikTok Live Views,0.0001,11.52,13132.8,1.152,114,66
+2026-11-21,tiktok,saves,TikTok Saves,0.0001,0.06,540,0.006,0.56,64
+2026-11-21,tiktok,shares,TikTok Shares,0.0006,0.171,253.89,0.0174,1.702016,73
+2026-11-21,tiktok,views,TikTok Views,0.001,0.08,4000,0.008,0.7992,84
+2026-11-21,tumblr,content-sharing,Tumblr Reblogs / Content Sharing,37.23,62.6176,311.7426,37.23,311.7426,5
+2026-11-21,twitch,channel-views,Twitch Channel Views,0.04,10.5,2001.6522,1.074,104.5316,37
+2026-11-21,twitch,clip-views,Twitch Clip / Video Views,0.0081,0.5,5.72,0.05,3.36,31
+2026-11-21,twitch,followers,Twitch Followers,0.01,0.3,165,0.03,3,62
+2026-11-21,twitch,live-viewers-1h,Twitch Live Viewers (1 hour),0.19,21.1962,10033.32,2.1204,211.37,30
+2026-11-21,twitch,live-viewers-multi-hour,Twitch Live Viewers (2-4 hours),1.5104,1302.32,8100.68,960.263,8100.68,6
+2026-11-21,twitter,bookmarks,X (Twitter) Bookmarks,0.01,49.1625,109.44,5.922,109.44,26
+2026-11-21,twitter,comments,X (Twitter) Replies,0.0038,47.5,9345.3056,4.87,437.58,58
+2026-11-21,twitter,community-members,X (Twitter) Community Members,2.4,30.5058,156,3.6,156,20
+2026-11-21,twitter,followers,X (Twitter) Followers,0.0044,11.4747,8400,1.15,114,76
+2026-11-21,twitter,likes,X (Twitter) Likes,0.01,4.75,5062.0419,0.48,46.8,75
+2026-11-21,twitter,poll-votes,X (Twitter) Poll Votes,0.095,3,234,0.3,21.4016,42
+2026-11-21,twitter,profile-clicks,X (Twitter) Profile / Detail / Hashtag Clicks,0.0011,0.05,262.5023,0.005,0.5,54
+2026-11-21,twitter,retweets,X (Twitter) Reposts,0.0305,10.4979,5062.0419,1.05,104.5,76
+2026-11-21,twitter,space-listeners,X (Twitter) Spaces Listeners,0.0742,1.2,2157.94,0.12,11.52,43
+2026-11-21,twitter,views,X (Twitter) Views,0.0005,0.03072,11095.4189,0.003072,0.3072,76
+2026-11-21,vimeo,followers,Vimeo Followers / Likes,3.6,16.8752,93.75,3.6,93.75,19
+2026-11-21,vimeo,views,Vimeo Views,0.3,0.98,225,0.3,4.4064,23
+2026-11-21,vk,followers,VK (VKontakte) Followers / Subscribers,0.0114,2.56,262.58,0.288,25,34
+2026-11-21,vk,likes,VK (VKontakte) Likes,0.1824,1.2756500000000002,269.82,0.1824,10,34
+2026-11-21,vk,views,VK (VKontakte) Post / Video Views,0.0013,0.149781,2400,0.01536,1.4,33
+2026-11-21,website-traffic,ai-referrer-traffic,Website Traffic AI-Referrer Traffic (ChatGPT / Perplexity / Gemini / Claude / Grok),0.4864,0.68,2.7228,0.4864,2.7228,4
+2026-11-21,website-traffic,direct-traffic,Website Traffic Direct / No-referrer Traffic,0.1582,0.3606,3.2,0.1582,3.2,22
+2026-11-21,website-traffic,geo-targeted-traffic,Website Traffic Geo-Targeted Traffic,0.03,1.105,6984,0.175,7.94,29
+2026-11-21,website-traffic,referral-traffic,Website Traffic Referral / Social Traffic,0.015001,0.4375,1170,0.075001,3.9918,42
+2026-11-21,website-traffic,residential-real-traffic,Website Traffic Residential / Real-visitor Traffic,2.8125,5.7375,8.4,2.8125,8.4,4
+2026-11-21,website-traffic,search-traffic,Website Traffic Search / Keyword Traffic,0.149,0.79,8000,0.149,7.84,41
+2026-11-21,website-traffic,worldwide-traffic,Website Traffic Worldwide Traffic,0.0094,1.191936,3281.25,0.12,11.34,53
+2026-11-21,whatsapp,channel-followers,WhatsApp Channels Channel Followers / Members,0.0012,4.5,55.2,0.45,42,56
+2026-11-21,whatsapp,channel-reactions,WhatsApp Channels Channel Post Reactions,0.0184,1.2525,475.2832,0.1296,11.875,48
+2026-11-21,youtube,comments,YouTube Comments,0.041,5.85,5400,0.59,58.5,80
+2026-11-21,youtube,dislikes,YouTube Dislikes,0.12,2.4248000000000003,128,0.25,23.75,23
+2026-11-21,youtube,likes,YouTube Likes,0.054,1.55,14250,0.1678,15.2,79
+2026-11-21,youtube,live-stream-views,YouTube Live Stream Viewers,0.0363,2.6023,196212.24,0.2624,25.92,70
+2026-11-21,youtube,playlist-views,YouTube Playlist Views,0.48,120,153.6,38.6,153.6,7
+2026-11-21,youtube,premiere-views,YouTube Premiere Views,0.13,2.34,61.11,0.247,13.9104,24
+2026-11-21,youtube,shares,YouTube Shares,0.142,1.67,145.173,0.2,16.15,49
+2026-11-21,youtube,shorts-likes,YouTube Shorts Likes,0.4,3,34.9232466,0.4,22.743,27
+2026-11-21,youtube,shorts-views,YouTube Shorts Views,0.1654,3.3,68700,0.3347,31.86,53
+2026-11-21,youtube,subscribers,YouTube Subscribers,0.0001,24,21646.1908,2.4079,231.26,79
+2026-11-21,youtube,views,YouTube Views,0.0516,2.7,242328.32,0.27,27,80
+2026-11-21,youtube,watch-hours,YouTube Watch Hours,0.3266,25.67355,2340,2.570112,244.08,61
