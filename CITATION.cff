@@ -14,6 +14,7 @@ authors:
   - family-names: "Güven"
     given-names: "Emirhan"
 license: CC-BY-4.0
+doi: "10.5281/zenodo.24519005"
 url: "https://panelcompare.com/price-index"
 repository-code: "https://github.com/azorkai/smm-panel-price-index"
 keywords:
