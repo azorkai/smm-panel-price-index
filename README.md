@@ -1,5 +1,7 @@
 # SMM Panel Price Index
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24519005.svg)](https://doi.org/10.5281/zenodo.24519005)
+
 An open, daily price index for **SMM panels**, the wholesale resellers behind social-media engagement services
 (followers, likes, views, plays, comments). Every day [PanelCompare](https://panelcompare.com) reads the public
 catalogues of 140+ panels, maps each listing onto one of 180+ canonical services across 43 platforms, and publishes
@@ -13,6 +15,7 @@ This repository is a dated, versioned mirror of that data, refreshed every night
 | Live index | https://panelcompare.com/price-index |
 | Methodology | https://panelcompare.com/methodology |
 | API (no key, CORS open) | https://panelcompare.com/api-docs · [OpenAPI 3.1](https://panelcompare.com/openapi.json) |
+| Citable archive | [doi.org/10.5281/zenodo.24519005](https://doi.org/10.5281/zenodo.24519005) (Zenodo, every release) |
 | Coverage | 2026-09-07 onward |
 | Update | Daily at 23:35 UTC, by [`.github/workflows/update.yml`](.github/workflows/update.yml) |
 
