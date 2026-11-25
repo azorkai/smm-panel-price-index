@@ -1,0 +1,37 @@
+{
+  "upload_type": "dataset",
+  "title": "SMM Panel Price Index: daily per-service prices across SMM panels",
+  "description": "<p>An open, daily price index for SMM panels, the wholesale resellers behind social-media engagement services (followers, likes, views, plays, comments). Every day <a href=\"https://panelcompare.com\">PanelCompare</a> reads the public catalogues of the panels it lists, maps each listing onto one of about 180 canonical services across 43 platforms, and publishes the distribution of prices per 1,000 units for each service: minimum, quartiles, median, maximum and a quotable range.</p><p>This record archives versioned releases of the GitHub mirror, which is refreshed nightly from the live index. Coverage starts on 2026-09-07. Files: <code>data/price-index.csv</code> (latest index), <code>history/price-index-history.csv</code> (one row per service per day), <code>snapshots/</code> (one frozen copy per day) and <code>data/panel-facts.csv</code> (per-panel domain and activity facts).</p><ul><li>Live index: <a href=\"https://panelcompare.com/price-index\">panelcompare.com/price-index</a></li><li>Methodology: <a href=\"https://panelcompare.com/methodology\">panelcompare.com/methodology</a></li><li>Keyless JSON API: <a href=\"https://panelcompare.com/api-docs\">panelcompare.com/api-docs</a> (<a href=\"https://panelcompare.com/openapi.json\">OpenAPI 3.1</a>)</li></ul><p>The live index is published in ten languages: <a href=\"https://panelcompare.com/price-index\">English</a>, <a href=\"https://panelcompare.com/tr/price-index\">Türkçe</a>, <a href=\"https://panelcompare.com/es/price-index\">Español</a>, <a href=\"https://panelcompare.com/pt/price-index\">Português</a>, <a href=\"https://panelcompare.com/ru/price-index\">Русский</a>, <a href=\"https://panelcompare.com/ar/price-index\">العربية</a>, <a href=\"https://panelcompare.com/id/price-index\">Bahasa Indonesia</a>, <a href=\"https://panelcompare.com/hi/price-index\">हिन्दी</a>, <a href=\"https://panelcompare.com/fr/price-index\">Français</a>, <a href=\"https://panelcompare.com/de/price-index\">Deutsch</a>.</p><p>Disclosure: PanelCompare is funded by labelled sponsored placements and affiliate links; the price data is collected the same way for every panel and is not affected by either.</p>",
+  "creators": [
+    {
+      "name": "Güven, Emirhan",
+      "affiliation": "PanelCompare"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "keywords": [
+    "smm panel",
+    "price index",
+    "social media marketing",
+    "inauthentic engagement",
+    "market prices",
+    "open data",
+    "price comparison"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://panelcompare.com/price-index",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://panelcompare.com/methodology",
+      "relation": "isDocumentedBy",
+      "resource_type": "publication-other",
+      "scheme": "url"
+    }
+  ],
+  "language": "eng"
+}
